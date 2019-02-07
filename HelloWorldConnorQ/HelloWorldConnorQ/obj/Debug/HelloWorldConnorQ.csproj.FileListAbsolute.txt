@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldConnorQ\HelloWorldConnorQ\bin\Debug\HelloWorldConnorQ.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldConnorQ\HelloWorldConnorQ\bin\Debug\HelloWorldConnorQ.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldConnorQ\HelloWorldConnorQ\bin\Debug\HelloWorldConnorQ.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldConnorQ\HelloWorldConnorQ\obj\Debug\HelloWorldConnorQ.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldConnorQ\HelloWorldConnorQ\obj\Debug\HelloWorldConnorQ.frmHelloWorld.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldConnorQ\HelloWorldConnorQ\obj\Debug\HelloWorldConnorQ.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldConnorQ\HelloWorldConnorQ\obj\Debug\HelloWorldConnorQ.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldConnorQ\HelloWorldConnorQ\obj\Debug\HelloWorldConnorQ.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldConnorQ\HelloWorldConnorQ\obj\Debug\HelloWorldConnorQ.pdb

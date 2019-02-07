@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\MacSaintsConnorQ\MacSaintsConnorQ\bin\Debug\MacSaintsConnorQ.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\MacSaintsConnorQ\MacSaintsConnorQ\bin\Debug\MacSaintsConnorQ.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\MacSaintsConnorQ\MacSaintsConnorQ\bin\Debug\MacSaintsConnorQ.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\MacSaintsConnorQ\MacSaintsConnorQ\obj\Debug\MacSaintsConnorQ.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\MacSaintsConnorQ\MacSaintsConnorQ\obj\Debug\MacSaintsConnorQ.frmMacSaints.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\MacSaintsConnorQ\MacSaintsConnorQ\obj\Debug\MacSaintsConnorQ.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\MacSaintsConnorQ\MacSaintsConnorQ\obj\Debug\MacSaintsConnorQ.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\MacSaintsConnorQ\MacSaintsConnorQ\obj\Debug\MacSaintsConnorQ.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\MacSaintsConnorQ\MacSaintsConnorQ\obj\Debug\MacSaintsConnorQ.pdb
