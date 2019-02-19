@@ -30,16 +30,19 @@ namespace PerAreaVolConnorQ
 
         }
 
+        // When first question is pressed show answer
         private void btnPerOfRectangle_Click(object sender, EventArgs e)
         {
             lblAnswer1.Text = Convert.ToString((2*7)+(2*9));
         }
 
+        // When second question is pressed show answer
         private void btnAreaOfCircle_Click(object sender, EventArgs e)
         {
             lblAnswer2.Text = Convert.ToString(Math.Round(100 * Math.Pow(9 / 2, 2) * Math.PI)/100);
         }
 
+        // When third question is pressed show answer
         private void btnVolumeOfSphere_Click(object sender, EventArgs e)
         {
             lblAnswer3.Text = Convert.ToString(Math.Round(100*((double)4/(double)3)*(Math.PI)*(Math.Pow(6, 3)))/100);
