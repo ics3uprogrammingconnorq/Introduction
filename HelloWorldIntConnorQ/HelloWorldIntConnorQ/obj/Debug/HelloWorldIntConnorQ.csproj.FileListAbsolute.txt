@@ -7,3 +7,13 @@ N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)
 N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\obj\Debug\HelloWorldIntConnorQ.csproj.GenerateResource.Cache
 N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\obj\Debug\HelloWorldIntConnorQ.exe
 N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\obj\Debug\HelloWorldIntConnorQ.pdb
+E:\C# Visual Studio\Daily\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\bin\Debug\HelloWorldIntConnorQ.exe.config
+E:\C# Visual Studio\Daily\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\bin\Debug\HelloWorldIntConnorQ.exe
+E:\C# Visual Studio\Daily\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\bin\Debug\HelloWorldIntConnorQ.pdb
+E:\C# Visual Studio\Daily\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\obj\Debug\HelloWorldIntConnorQ.csprojAssemblyReference.cache
+E:\C# Visual Studio\Daily\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\obj\Debug\HelloWorldIntConnorQ.frmHelloWorldInt.resources
+E:\C# Visual Studio\Daily\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\obj\Debug\HelloWorldIntConnorQ.Properties.Resources.resources
+E:\C# Visual Studio\Daily\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\obj\Debug\HelloWorldIntConnorQ.csproj.GenerateResource.cache
+E:\C# Visual Studio\Daily\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\obj\Debug\HelloWorldIntConnorQ.csproj.CoreCompileInputs.cache
+E:\C# Visual Studio\Daily\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\obj\Debug\HelloWorldIntConnorQ.exe
+E:\C# Visual Studio\Daily\Introduction\HelloWorldIntConnorQ\HelloWorldIntConnorQ\obj\Debug\HelloWorldIntConnorQ.pdb
